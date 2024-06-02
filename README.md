@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [My Portfolio](https://github.com/ChristopherLit/Portfolio)  
   
 
-- 🌱 I’m currently learning GoLang and C++  
+- 🌱 I’m currently learning Ruby on Rails  
   
 
 - 🌎 Currently in Ottawa, Canada  
