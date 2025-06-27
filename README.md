@@ -3,10 +3,7 @@
 ### <div align="center">I'm Christopher, a Full-time Computer Science Student 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/ChristopherLit/Portfolio)  
-  
-
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
   
 
 - 🌎 Currently in Ottawa, Canada  
